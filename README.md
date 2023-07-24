@@ -19,4 +19,4 @@ Fitur :
 | 4. Operator Penugasan | Operasi untuk memasukkan nilai kedalam suatu variabel |
 
 ### SCREENSHOT PROGRAM
-![Aplikasi Gue](https://github.com/vierynugroho/UAS-praktikum_SistemOperasi/blob/main/operator.png?raw=true)
+![Aplikasi Gue](https://github.com/vierynugroho/UAS-praktikum_SistemOperasi/blob/main/operator.png)
