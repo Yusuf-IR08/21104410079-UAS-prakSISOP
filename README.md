@@ -8,7 +8,6 @@
 | Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/mrhmt80) |
 
 ## SISTEM OPERASI
-Fitur ( Aplikasi Saya )
 Fitur : 
 |  |  |
 |--|--|
@@ -19,4 +18,4 @@ Fitur :
 | 4. Operator Penugasan | Operasi untuk memasukkan nilai kedalam suatu variabel |
 
 ### SCREENSHOT PROGRAM
-![Aplikasi Gue](https://github.com/vierynugroho/UAS-praktikum_SistemOperasi/blob/main/operator.png)
+![Aplikasi Gue](https://github.com/Yusuf-IR08/21104410079-UAS-prakSISOP/blob/main/operator.png)
